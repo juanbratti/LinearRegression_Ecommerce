@@ -3,4 +3,5 @@ For this project ON "Simple Linear Regression Model" we are using a virtual envi
 
 - Python 3.12.3
 - Pandas
-- ipykernel
+- Seaborn
+- Matplotlib
