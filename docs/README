@@ -1,0 +1,6 @@
+
+For this project ON "Simple Linear Regression Model" we are using a virtual environment that contains the following libraries:
+
+- Python 3.12.3
+- Pandas
+- ipykernel
