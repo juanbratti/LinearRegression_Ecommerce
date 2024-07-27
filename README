@@ -1,0 +1,10 @@
+
+This is a project that consists of using a multiple linear regression to predict the yearly amount spent by a client on a ecommerce company.
+
+Libraries used:
+- Python 3.12.3
+- Pandas
+- Seaborn
+- Matplotlib
+- sklearn
+- pylab
